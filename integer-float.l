@@ -9,6 +9,7 @@
 %%
 
 int main(){
+printf("MOHD HASNAIN KHAN | ML2 | 56\n");
 yylex();
 return 0;}
 

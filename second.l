@@ -12,6 +12,8 @@
 %%
 
 int main() {
+    printf("MOHD HASNAIN KHAN | ML2 | 56\n");
+
     printf("Enter data:\n");
     yylex();
 
